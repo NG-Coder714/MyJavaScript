@@ -1,0 +1,2 @@
+# MyJavaScript
+Only learning purpose
